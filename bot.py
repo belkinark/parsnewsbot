@@ -44,4 +44,4 @@ async def on_ready():
 		time.sleep(300)
 
 
-bot.run("OTY3NDQzMTc5ODkwNzAwMjk4.YmQXrA.jSi-pxEDSzypTKR0lNB13q7oabg")
+bot.run("TOKEN")
